@@ -5,7 +5,7 @@ description: > # Meta description of Homepage
   I am a student of Macalester College and a software developer. This is my personal blog about my thoughts 
   of life and programming
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://fanzhangg.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://fanzhangg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
