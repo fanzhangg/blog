@@ -4,7 +4,7 @@ author: Fan Zhang # You :P
 description: > # Meta description of Homepage
   I am a student of Macalester College and a software developer. This is my personal blog about my thoughts 
   of life and programming
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/sleek" # the subpath of your site, e.g. /blog
 url: "https://fanzhangg.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
@@ -31,9 +31,9 @@ hero_img: posts/road.png # Main background image: use the path from /assets/img/
 
 email: vanadiumzhang@gmail.com # email for form submission
 
-twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
+twitter_username: FanZhang666 # replace with your_twitter_username or comment to remove link from footer
 github_username:  fanzhangg # replace with your_github_username or comment to remove link from footer
-instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
+instagram_username: frank_ziggystardust # replace with your_instagram_username or comment to remove link from footer
 
 disqus:
   shortname: janczizikow # to enable comments replace with your_disqus_shortname
